@@ -45,7 +45,7 @@ The analysis provides insights into how emotions like fear and greed impact trad
 
 ## 🗂️ Project Structure
 
-ds_jiji_maheshwaran/
+ds_jiji_babu/
 ├── notebook_1.ipynb
 ├── csv_files/
 ├── outputs/
@@ -87,6 +87,7 @@ Aspiring Data Analyst
 - 💻 GitHub: https://github.com/Jiji-1905  
 
 ---
+
 
 
 
